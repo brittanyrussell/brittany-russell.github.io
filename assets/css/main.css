@@ -33,6 +33,25 @@ body {
 	line-height: 1;
 }
 
+#ed1 {
+
+	text-align: center;
+}
+
+#edtitle2 {
+	text-align: center;
+}
+
+#myProjects {
+	text-align: center;
+	list-style-type: none;
+}
+
+#mySkills {
+	text-align: center;
+	list-style-type: none;
+}
+
 ol, ul {
 	list-style: none;
 }
