@@ -33,6 +33,21 @@ body {
 	line-height: 1;
 }
 
+#aboutMeP{
+	text-align: center;
+}
+
+#aboutMeListTitle {
+	text-align: center;
+}
+
+#aboutMeList {
+
+	list-style-type: none;
+	text-align: center;
+}
+
+
 #ed1 {
 
 	text-align: center;
